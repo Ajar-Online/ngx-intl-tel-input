@@ -46,7 +46,7 @@ to **angular.json** styles array:
 ```json
 
 "styles": [
-  "./node_modules/@nacojohn/intl-tel-input/build/css/intlTelInput.css",
+  "./node_modules/intl-tel-input/build/css/intlTelInput.css",
   "src/styles.css"
 ],
 
@@ -121,7 +121,7 @@ Following formats are supported
 ## Library Contributions
 
 - Fork repo.
-- Update `./projects/@nacojohn/ngx-intl-tel-input`
+- Update `./projects/ngx-intl-tel-input`
 - Build / test library.
 - Update `./src/app` with new functionality.
 - Update README.md
